@@ -13,7 +13,10 @@
                 [gettext_noop('Now'), -1],
                 [gettext_noop('Midnight'), 0],
                 [gettext_noop('6 a.m.'), 6],
-                [gettext_noop('Noon'), 12],
+                [gettext_noop('9 a.m.'), 9],
+                [gettext_noop('10 a.m.'), 10],
+                [gettext_noop('12 p.m.'), 12],
+                [gettext_noop('3 p.m.'), 15],
                 [gettext_noop('6 p.m.'), 18]
             ]
         },
